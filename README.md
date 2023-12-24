@@ -1,4 +1,4 @@
-![IMG_3174](https://github.com/udayangas/udayangas/assets/154428093/b5f4c283-8c4b-402f-81fa-de714f53431e)
+![IMG_3177](https://github.com/udayangas/udayangas/assets/154428093/b08f238d-6cf1-4202-aa5c-ff55f9ea9e3c)
 
 Udayanga Sandaruwan is a dedicated technology enthusiast with a robust background in electronic system design, testing, and software development. With a strong passion for innovation, Udayanga excels in Python and Arduino programming, showcasing his expertise in creating cross-platform applications. His hands-on experience extends to the realms of IoT, where he designs smart home devices for automation using platforms like Home Assistant. Udayanga's commitment to quality and reliability is evident in his project contributions, such as a Digital Broadcast Service Quality Ensuring and Fault Alerting System for Master Control Rooms. With a blend of practical problem-solving skills and a diverse skill set, Udayanga is poised to make meaningful contributions in any dynamic technological landscape.
 
